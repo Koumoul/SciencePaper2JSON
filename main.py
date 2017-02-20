@@ -18,7 +18,7 @@ PDF2Json
 |-main.py
 |-paper
     |
-    |-folder_name_as_DOI
+    |-folder_named_as_DOI
                |
                |- filename.pdf
                |-page
