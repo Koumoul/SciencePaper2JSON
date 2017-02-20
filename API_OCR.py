@@ -4,7 +4,7 @@ import json
 
 #https://ocr.space/ocrapi
 
-def ocr_space_file(filename, overlay=False, api_key='a13ae1e05b88957', language='eng', path=''):
+def ocr_space_file(filename, overlay=False, api_key='a13ae1e05b*****', language='eng', path=''):
     """ OCR.space API request with local file.
         Python3.5 - not tested on 2.7
     :param filename: Your file path & name.
