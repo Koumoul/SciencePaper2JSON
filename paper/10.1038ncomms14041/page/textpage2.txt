@@ -1,0 +1,14 @@
+NATURE COMMUNICATIONS I DOI: 10.1038/ncomms14041 ARTICLE 
+a A549 exosomes 200 nm b 45 kDa 55 kDa 35 kDa 25 kDa Tsg101 C 063 12 10 6 2 o A549 exosomes 200 400 600 Exosome size (nm) 800 100 nm 
+
+AS49 exosomes 
+
+1.2 400 1.0 300 0.8 NS 0.6 200 NS — 0.4 0.2 
+25 20 c S ü 15 10 5 NS 
+
+• Exosome vs Glucose (62—0.83) Exosome vs Lactate (42—0.81) 3.0 g 40 Shikonin TNF 30 20 10 3.5 30 25 20 15 10 5 0.5 1.0 1.5 2.0 2.5 Glycolysis level 
+PBS 400 EGF 350 300 250 200 150 100 50 0.2 HepG2 HepG2 A549 A549 
+
+Figure 1 | Release of exosomes by tumour cells depends on aerobic glycolysis. (a-c) Isolated exosomes from A549 cells assessed by transmission electron microscopy (a), WB (b) and NTA (c). The lower right image in a represents the immune-gold labelling of CD63 in an exosome. (d) Tumour cells release more exosomes than non-tumour cells. (e) Positive correlation between exosome secretion and aerobic glycolysis. (f) Linear regression between glucose uptake (R —0.83) and lactate level (r 0.81). (g) Release of exosomes is dependent on cellular aerobic glycolysis. Cells were treated with shikonin (1 PIM) or tumour necrosis factor (5 ng ml —l) to inhibit or promote aerobic glycolysis. Exosome concentration was measured 24 h post-treatment. (h) Effect of EGF and OA on cell aerobic glycolysis. Note that EGF (10 ng ml —l), an enhancer of exosome release, increases aerobic glycolysis, whi e OA (10 pg ml ), an inhibitor of exosome release, decreases aerobic glycolysis. (i) EGF and OA regulate A549 cell exosome release via altering cellular aerobic glycolysis. Data are presented as the mean s.e.m. and represent at least three independent experiments with three replicates per data point. NS, no significance. •PSIO.05, • 'Pc: 0.01, as determined by the one-way ANOVA test. 
+
+NATURE COMMUNICATIONS | 8: 14041 DO : 10.1038/ncomms140411 v.ww.nature.com/naturecommunications 
