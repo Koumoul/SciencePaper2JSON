@@ -93,7 +93,7 @@ def block_text(path='path/without/end_file', pathsave='', file_name='file_name')
     #k = cv2.waitKey(0)
     #if k == 27:         # wait for ESC key to exit
         #cv2.destroyAllWindows()
-def ocr_api(filename, overlay=False, api_key='a13ae1e05b88957', language='eng', path=''):
+def ocr_api(filename, overlay=False, api_key='a13ae1e05b*****', language='eng', path=''):
     """ OCR.space API request with local file.
         Python3.5 - not tested on 2.7
     :param filename: Your file path & name.
